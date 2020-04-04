@@ -1,4 +1,3 @@
-import 'package:chatui/models/message_model.dart';
 import 'package:chatui/widgets/category_selector.dart';
 import 'package:chatui/widgets/favorite_contacts.dart';
 import 'package:chatui/widgets/recent_chats.dart';
